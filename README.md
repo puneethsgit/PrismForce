@@ -49,6 +49,16 @@ Write an algorithm to determine if Abhimanyu can cross the Chakravyuha and test 
 
 ## Code Implementation
 
+
+## Test Case
+- const p1 = 50;
+- const k1 = [10, 20, 30, 15, 25, 35, 10, 5, 40, 20, 30];
+- const a1 = 2;
+- const b1 = 1;
+
+- console.log(canCrossChakravyuha(p1, k1, a1, b1)); // Output: true/false
+
+
 ```javascript
 function canCrossChakravyuha(p, k, a, b) {
     const initialPower = p;
@@ -76,6 +86,6 @@ function canCrossChakravyuha(p, k, a, b) {
     }
 
     return true; // Abhimanyu successfully crosses all circles
-}
+} 
 
 
