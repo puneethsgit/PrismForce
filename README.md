@@ -79,18 +79,3 @@ function canCrossChakravyuha(p, k, a, b) {
 }
 
 
-## Test Cases
-
-Below are two test cases to validate the `canCrossChakravyuha` function.
-
-### Test Case 1
-```javascript
-const p1 = 50;
-const k1 = [10, 20, 30, 15, 25, 35, 10, 5, 40, 20, 30];
-const a1 = 2;
-const b1 = 1;
-
-console.log(canCrossChakravyuha(p1, k1, a1, b1)); // Output: true/false
-
-
-AUTHOR : puneethspunii@gmail.com
