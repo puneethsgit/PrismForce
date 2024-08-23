@@ -1,7 +1,7 @@
 # Prismforce Coding Assignment - ASDE Algorithm Test
-# PROGRAMMER : puneethspunii@gmail.com
+### PROGRAMMER : puneethspunii@gmail.com
 
-## Problem Statement
+# Problem Statement
 
 Imagine Abhimanyu in Chakravyuha. There are 11 circles in the Chakravyuha surrounded by different enemies. Abhimanyu is located in the innermost circle and has to cross all 11 circles to reach the Pandavas' army back.
 
